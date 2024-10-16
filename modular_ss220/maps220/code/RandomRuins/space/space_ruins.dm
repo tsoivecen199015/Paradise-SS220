@@ -85,3 +85,12 @@
 	cost = 10
 	allow_duplicates = FALSE
 
+/datum/map_template/ruin/space/Old_station_new
+	name = "Old abandoned station"
+	id = "OldStatiom"
+	description = "Old station in deep space"
+	prefix = "_maps/map_files220/RandomRuins/SpaceRuins/"
+	suffix = "Old_station_new.dmm"
+	cost = 0
+	allow_duplicates = FALSE
+
